@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,DejaVu Sans Mono,monospace" width="640" height="612" font-size="16px">
 <style>@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';size-adjust:109%;}.key{fill:#953800}.value{fill:#0a3069}.add{fill:#1a7f37}.del{fill:#cf222e}.cc{fill:#c2cfde}text,tspan{white-space:pre}</style>
 <rect width="640" height="612" fill="#f6f8fa" rx="15"/>
 <text fill="#24292f" xml:space="preserve">
 <tspan x="25" y="35">animesh@anidotdev</tspan> ----------------------------------------
 <tspan x="25" y="57" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Backend Developer</tspan>
-<tspan x="25" y="79" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-pad="49"> ...................... </tspan><tspan class="value" id="age_data">0 years, 0 months, 0 days</tspan>
+<tspan x="25" y="79" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-pad="49"> ..................... </tspan><tspan class="value" id="age_data">20 years, 3 months, 2 days</tspan>
 <tspan x="25" y="101" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">ABES Engineering College</tspan>
 <tspan x="25" y="123" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">B.Tech, 2nd year</tspan>
 <tspan x="25" y="167" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">JavaScript, Golang, C++</tspan>
@@ -19,10 +19,10 @@
 <tspan x="25" y="387" class="cc">. </tspan><tspan class="key">Medium</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">@anidotdev</tspan>
 <tspan x="25" y="409" class="cc">. </tspan><tspan class="key">Blog</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">anidotdev.pages.dev</tspan>
 <tspan x="25" y="453">- GitHub Stats</tspan> -------------------------------------------
-<tspan x="25" y="475" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots" data-pad="50"> ............................................... </tspan><tspan class="value" id="repo_data">0</tspan>
-<tspan x="25" y="497" class="cc">. </tspan><tspan class="key">Repos</tspan>.<tspan class="key">Contributed</tspan>:<tspan class="cc" id="contrib_data_dots" data-pad="38"> ................................... </tspan><tspan class="value" id="contrib_data">0</tspan>
-<tspan x="25" y="519" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots" data-pad="50"> ............................................... </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="25" y="541" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots" data-pad="48"> ............................................. </tspan><tspan class="value" id="commit_data">0</tspan>
-<tspan x="25" y="563" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots" data-pad="46"> ........................................... </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="25" y="585" class="cc">. </tspan><tspan class="key">Lines</tspan>.<tspan class="key">of</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc" id="loc_data_dots" data-pad="20"> .... </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="add" id="loc_add">0</tspan><tspan class="add">++</tspan>, <tspan class="del" id="loc_del">0</tspan><tspan class="del">--</tspan> )
+<tspan x="25" y="475" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots" data-pad="50"> .............................................. </tspan><tspan class="value" id="repo_data">30</tspan>
+<tspan x="25" y="497" class="cc">. </tspan><tspan class="key">Repos</tspan>.<tspan class="key">Contributed</tspan>:<tspan class="cc" id="contrib_data_dots" data-pad="38"> .................................. </tspan><tspan class="value" id="contrib_data">30</tspan>
+<tspan x="25" y="519" class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots" data-pad="50"> ............................................... </tspan><tspan class="value" id="star_data">4</tspan>
+<tspan x="25" y="541" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots" data-pad="48"> ........................................... </tspan><tspan class="value" id="commit_data">182</tspan>
+<tspan x="25" y="563" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots" data-pad="46"> ........................................... </tspan><tspan class="value" id="follower_data">2</tspan>
+<tspan x="25" y="585" class="cc">. </tspan><tspan class="key">Lines</tspan>.<tspan class="key">of</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc" id="loc_data_dots" data-pad="20"> ............ </tspan><tspan class="value" id="loc_data">69,031</tspan> ( <tspan class="add" id="loc_add">107,856</tspan><tspan class="add">++</tspan>, <tspan class="del" id="loc_del">38,825</tspan><tspan class="del">--</tspan> )
 </text></svg>
