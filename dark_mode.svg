@@ -5,7 +5,7 @@
 <text fill="#c9d1d9" xml:space="preserve">
 <tspan x="25" y="35">animesh@anidotdev</tspan> ----------------------------------------
 <tspan x="25" y="57" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Backend Developer</tspan>
-<tspan x="25" y="79" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-pad="49"> ..................... </tspan><tspan class="value" id="age_data">20 years, 3 months, 6 days</tspan>
+<tspan x="25" y="79" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots" data-pad="49"> ..................... </tspan><tspan class="value" id="age_data">20 years, 3 months, 7 days</tspan>
 <tspan x="25" y="101" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">ABES Engineering College</tspan>
 <tspan x="25" y="123" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">B.Tech, 2nd year</tspan>
 <tspan x="25" y="167" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">JavaScript, Golang, C++</tspan>
