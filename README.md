@@ -1,15 +1,15 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=animeshhq&label=Profile%20views&color=blueviolet&style=plastic" alt="animeshhq" />
+  <img src="https://komarev.com/ghpvc/?username=anidotdev&label=Profile%20views&color=blueviolet&style=plastic" alt="anidotdev" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/animeshhq/animeshhq/main/dark_mode.svg">
-  <img alt="Animesh — GitHub Profile README" src="https://raw.githubusercontent.com/animeshhq/animeshhq/main/light_mode.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anidotdev/anidotdev/main/dark_mode.svg">
+  <img alt="Animesh — GitHub Profile README" src="https://raw.githubusercontent.com/anidotdev/anidotdev/main/light_mode.svg">
 </picture>
 
 ---
 
-## Animesh | [Portfolio](https://animeshhq.github.io/)
+## Animesh | [Portfolio](https://anidotdev.github.io/)
 **Computer Science Student | Backend Developer**
 
 I build backend systems, data pipelines, and practical developer tools.
