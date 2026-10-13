@@ -10,7 +10,7 @@ import requests
 from lxml import etree
 
 API_URL = "https://api.github.com/graphql"
-USER_NAME = os.getenv("USER_NAME", "animeshhq")
+USER_NAME = os.getenv("USER_NAME", "anidotdev")
 TOKEN = os.getenv("ACCESS_TOKEN")
 ROOT_DIR = Path(__file__).resolve().parent
 

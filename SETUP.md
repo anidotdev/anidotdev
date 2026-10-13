@@ -49,7 +49,7 @@ That command replaces the SVG values with clearly marked sample data. Restore th
 ```bash
 # PowerShell
 $env:ACCESS_TOKEN = "your_token"
-$env:USER_NAME = "anitodev"
+$env:USER_NAME = "anidotdev"
 python today.py
 ```
 
